@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End developing, Videogame Developing and Webapps.
 - 🌱 I’m currently learning Angular.
 - 💞️ I’m looking to collaborate on Front End Development.
-- 📫 contacto@agdiseno.com.mx
+- 📫 contactme@aldoguzman.design
 
 <!---
 AG-jpg/AG-jpg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
