@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AG-jpg
 - 👀 I’m interested in Front End Developing and Videogame Developing.
-- 🌱 I’m currently learning PHP and C#.
-- 💞️ I’m looking to collaborate on Front End Development.
+- 🌱 I’m currently learning Unity and C#.
+- 💞️ I’m looking to collaborate on Front End Development and VideoGame Developing.
 - 📫 contactme@aldoguzman.design
 
 <!---
